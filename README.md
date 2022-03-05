@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EzeaniChucks
-- 👀 I’m a professoinal frontend and backend development
-- 🌱 I’m currently perfecting my javascript skills
+- 👀 I’m a professoinal frontend and backend developer constantly updating my javascript skills
 - 💞️ I’m currently looking to collaborate on open source apps that provide vital global solutions...
 - 📫 How to reach me (+2348067268692 concord_chucks2@yahoo.com)
 
