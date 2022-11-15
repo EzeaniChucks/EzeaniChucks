@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @EzeaniChucks
-- 👀 I’m a professoinal frontend and backend developer constantly updating my javascript skills
-- 💞️ I’m currently looking to collaborate on open source apps that provide vital global solutions...
+- 👀 I’m a fullstack MERN developer currently perfecting my data structures and algorithms skills.
+      Coming from a dietitics and fiction-writer background, I've built apps that are useful to professionals in the
+      medical field as well as readers/lovers of online fiction reading platforms.
+- 💞️ I look forward to working with you.
 - 📫 How to reach me (+2348067268692 concord_chucks2@yahoo.com)
 
 <!---
