@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @EzeaniChucks
-- 👀 I’m a fullstack MERN developer currently perfecting my data structures and algorithms skills.
-      Coming from a dietitics and fiction-writer background, I've built apps that are useful to professionals in the
-      medical field as well as readers/lovers of online fiction reading platforms.
+- 👀 I’m a fullstack developer skilled at Nextjs, Nestjs, Typescript, React, Nodejs, Payment Gateway and Websockets integration, AWS, Mongodb, SQL and Docker.
 - 💞️ I look forward to working with you.
-- 📫 How to reach me (+2348067268692 concord_chucks2@yahoo.com)
+- 📫 Reach me on (+2348067268692 concord_chucks2@yahoo.com)
 
 <!---
 EzeaniChucks/EzeaniChucks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
